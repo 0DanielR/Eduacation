@@ -1,0 +1,33 @@
+@api = http://localhost:3020/api/v1/Edificio-API
+### GET
+GET {{api}}
+### GET ITEM
+GET {{api}}/1
+### GET ITEM
+GET {{api}}/1?keyType=OK
+
+//Education
+### POST ITEM EDIFICIO
+POST {{api}} 
+Content-Type: application/json
+
+{
+    "IdEdificioPK" : "4",
+    "IdEdificioOK" : "18DIT0005Z",
+    "IdEdificioBK" : "LABMovA",
+    "IdIstituto" : "1",
+    "desEdificio" : "Laboratorio de computo movil A",
+    "Alias" : "MovA"
+}
+### PUT ITEM EDIFICIO
+PUT {{api}}/4 
+Content-Type: application/json 
+    { 
+        "IdEdificioPK" : "4", 
+        "IdEdificioOK" : "XXXXXX", 
+        "IdEdificioBK" : "Instituto Tecnológico de XXXXX", 
+        "IdIstituto" : "X", 
+        "desEdificio" : "EducacionXXX", 
+        "Alias" : "ITTXXX"
+    }
+
