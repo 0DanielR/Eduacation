@@ -1,0 +1,192 @@
+[{
+  "_id": {
+    "$oid": "640fa9bbdad29059b33aa18e"
+  },
+  "IdPeriodoPK": "2",
+  "IdPeriodoOK": "2",
+  "IdPeriodoBK": "20221",
+  "IdInstitutoOK": 1,
+  "DesPeriodo": "Periodo Febrero - Junio de 2022",
+  "NombreCorto": "FEB-JUN 2022",
+  "IdTipoCicloOK": "207",
+  "IdClicloOK": "207-1",
+  "Ciclo": "SEMESTRAL",
+  "Año": 2022,
+  "NumPeriodo": "1",
+  "IdTipoGradoAcaOK": "200",
+  "IdGradoAcaOK": "200-1",
+  "GradoAca": "LICENCIATURA",
+  "IdTipoModalidadOK": "206",
+  "IdModalidadOK": "206-1",
+  "Modalidad": "ESCOLARIZADO",
+  "cat_periodos_estatus": [
+    {
+      "IdTipoEstatusOK": "303",
+      "IdEstatusOK": "303-1",
+      "Estatus": "VIGENTE",
+      "Actual": "S",
+      "Observacion": "",
+      "detail_row": {
+        "Activo": "S",
+        "Borrado": "N",
+        "detail_row_reg": [
+          {
+            "FechaReg": {
+              "$date": {
+                "$numberLong": "1651276800628"
+              }
+            },
+            "UsuarioReg": "FIBARRAC"
+          }
+        ]
+      },
+      "_id": {
+        "$oid": "641c04fa527253c4048c9a91"
+      }
+    }
+  ],
+  "detail_row": {
+    "Activo": "S",
+    "Borrado": "N",
+    "detail_row_reg": [
+      {
+        "FechaReg": {
+          "$date": {
+            "$numberLong": "1651276800628"
+          }
+        },
+        "UsuarioReg": "FIBARRAC"
+      }
+    ]
+  },
+  "FechaInicial": "2022-02-01T00:00:00.000+0000",
+  "FechaFinal": "2022-06-03T00:00:00.000+0000"
+},{
+  "_id": {
+    "$oid": "6417ec7ee808050c83f5fd51"
+  },
+  "IdPeriodoPK": "4",
+  "IdPeriodoOK": "4",
+  "IdPeriodoBK": "20221",
+  "IdInstitutoOK": 1,
+  "DesPeriodo": "Periodo Febrero - Junio de 2022",
+  "NombreCorto": "FEB-JUN 2022",
+  "IdTipoCicloOK": "207",
+  "IdClicloOK": "207-1",
+  "Ciclo": "SEMESTRAL",
+  "Año": 2022,
+  "NumPeriodo": "1",
+  "IdTipoGradoAcaOK": "200",
+  "IdGradoAcaOK": "200-1",
+  "GradoAca": "LICENCIATURA",
+  "IdTipoModalidadOK": "206",
+  "IdModalidadOK": "206-1",
+  "Modalidad": "ESCOLARIZADO",
+  "cat_periodos_estatus": [
+    {
+      "IdTipoEstatusOK": "303",
+      "IdEstatusOK": "303-1",
+      "Estatus": "VIGENTE",
+      "Actual": "S",
+      "Observacion": "",
+      "detail_row": {
+        "Activo": "S",
+        "Borrado": "N",
+        "detail_row_reg": [
+          {
+            "FechaReg": {
+              "$date": {
+                "$numberLong": "1651276800628"
+              }
+            },
+            "UsuarioReg": "FIBARRAC"
+          }
+        ]
+      },
+      "_id": {
+        "$oid": "6417ec7ee808050c83f5fd52"
+      }
+    }
+  ],
+  "detail_row": {
+    "Activo": "S",
+    "Borrado": "N",
+    "detail_row_reg": [
+      {
+        "FechaReg": {
+          "$date": {
+            "$numberLong": "1651276800628"
+          }
+        },
+        "UsuarioReg": "FIBARRAC"
+      }
+    ]
+  },
+  "FechaInicial": "2022-02-01T00:00:00.000+0000",
+  "FechaFinal": "2022-06-03T00:00:00.000+0000",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641c0354527253c4048c9a80"
+  },
+  "IdPeriodoPK": "6",
+  "IdPeriodoOK": "6",
+  "IdPeriodoBK": "20221",
+  "IdInstitutoOK": 1,
+  "DesPeriodo": "Periodo Febrero - Junio de 2022",
+  "NombreCorto": "FEB-JUN 2022",
+  "IdTipoCicloOK": "207",
+  "IdClicloOK": "207-1",
+  "Ciclo": "SEMESTRAL",
+  "Año": 2022,
+  "NumPeriodo": "1",
+  "IdTipoGradoAcaOK": "200",
+  "IdGradoAcaOK": "200-1",
+  "GradoAca": "LICENCIATURA",
+  "IdTipoModalidadOK": "206",
+  "IdModalidadOK": "206-1",
+  "Modalidad": "ESCOLARIZADO",
+  "cat_periodos_estatus": [
+    {
+      "IdTipoEstatusOK": "303",
+      "IdEstatusOK": "303-1",
+      "Estatus": "VIGENTE",
+      "Actual": "S",
+      "Observacion": "",
+      "detail_row": {
+        "Activo": "S",
+        "Borrado": "N",
+        "detail_row_reg": [
+          {
+            "FechaReg": {
+              "$date": {
+                "$numberLong": "1651276800628"
+              }
+            },
+            "UsuarioReg": "FIBARRAC"
+          }
+        ]
+      },
+      "_id": {
+        "$oid": "641c0354527253c4048c9a81"
+      }
+    }
+  ],
+  "detail_row": {
+    "Activo": "S",
+    "Borrado": "N",
+    "detail_row_reg": [
+      {
+        "FechaReg": {
+          "$date": {
+            "$numberLong": "1651276800628"
+          }
+        },
+        "UsuarioReg": "FIBARRAC"
+      }
+    ]
+  },
+  "FechaInicial": "2022-02-01T00:00:00.000+0000",
+  "FechaFinal": "2022-06-03T00:00:00.000+0000",
+  "__v": 0
+}]

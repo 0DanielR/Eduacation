@@ -1,0 +1,181 @@
+[{
+  "_id": {
+    "$oid": "640fce76744dd25a17a727de"
+  },
+  "IdEdificioPK": 1,
+  "IdEdificioOK": "1",
+  "IdEdificioBK": "LABCO",
+  "IdInstitutoOK": "1",
+  "DesEdificio": "Laboratorio de Computo",
+  "Alias": "SGC",
+  "cat_edificios_espacios": [
+    {
+      "IdEspacioOK": "1",
+      "IdEspacioBK": "LABCO-SG",
+      "DesEspacio": "Sala General",
+      "Alias": "SGA",
+      "detail_row": {
+        "Activo": "S",
+        "Borrado": "N",
+        "detail_row_reg": [
+          {
+            "FechaReg": "2022-04-30T00:00:00.628+0000",
+            "UsuarioReg": "FIBARRAC"
+          }
+        ]
+      }
+    },
+    {
+      "IdEspacioOK": "2",
+      "IdEspacioBK": "LABCO-SA",
+      "DesEspacio": "Sala A",
+      "Alias": "SA",
+      "detail_row": {
+        "Activo": "S",
+        "Borrado": "N",
+        "detail_row_reg": [
+          {
+            "FechaReg": "2022-04-30T00:00:00.628+0000",
+            "UsuarioReg": "FIBARRAC"
+          }
+        ]
+      }
+    },
+    {
+      "IdEspacioOK": "3",
+      "IdEspacioBK": "LABCO-SB",
+      "DesEspacio": "Sala B",
+      "Alias": "SB",
+      "detail_row": {
+        "Activo": "S",
+        "Borrado": "N",
+        "detail_row_reg": [
+          {
+            "FechaReg": "2022-04-30T00:00:00.628+0000",
+            "UsuarioReg": "FIBARRAC"
+          }
+        ]
+      }
+    }
+  ],
+  "detail_row": {
+    "Activo": "S",
+    "Borrado": "N",
+    "detail_row_reg": [
+      {
+        "FechaReg": "2022-04-30T00:00:00.628+0000",
+        "UsuarioReg": "FIBARRAC"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "64121c6aa1bc7b5bf1d35974"
+  },
+  "IdEdificioPK": 5,
+  "IdEdificioOK": "5",
+  "IdEdificioBK": "LABCO",
+  "IdInstitutoOK": 3,
+  "DesEdificio": "Laboratorio de Computo",
+  "Alias": "LC",
+  "cat_edificios_espacios": [
+    {
+      "IdEspacioOK": 1,
+      "IdEspacioBK": "LABCO-SG",
+      "DesEspacio": "Sala General",
+      "Alias": "SG",
+      "detail_row": {
+        "Activo": "S",
+        "Borrado": "N",
+        "detail_row_regw": []
+      },
+      "_id": {
+        "$oid": "64121c6aa1bc7b5bf1d35975"
+      }
+    },
+    {
+      "IdEspacioOK": 2,
+      "IdEspacioBK": "LABCO-SA",
+      "DesEspacio": "Sala A",
+      "Alias": "SA",
+      "detail_row": {
+        "Activo": "S",
+        "Borrado": "N",
+        "detail_row_regw": []
+      },
+      "_id": {
+        "$oid": "64121c6aa1bc7b5bf1d35976"
+      }
+    },
+    {
+      "IdEspacioOK": 3,
+      "IdEspacioBK": "LABCO-SB",
+      "DesEspacio": "Sala B",
+      "Alias": "SB",
+      "detail_row": {
+        "Activo": "S",
+        "Borrado": "N",
+        "detail_row_regw": []
+      },
+      "_id": {
+        "$oid": "64121c6aa1bc7b5bf1d35977"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6413778ca362c1e0716249bc"
+  },
+  "IdEdificioPK": 8,
+  "IdEdificioOK": "8",
+  "IdEdificioBK": "UVP",
+  "IdInstitutoOK": 3,
+  "DesEdificio": "Unidad de Vinculaciones",
+  "Alias": "UVP",
+  "cat_edificios_espacios": [
+    {
+      "IdEspacioOK": 1,
+      "IdEspacioBK": "LABCO-SG",
+      "DesEspacio": "Sala General",
+      "Alias": "SG",
+      "detail_row": {
+        "Activo": "S",
+        "Borrado": "N",
+        "detail_row_regw": []
+      },
+      "_id": {
+        "$oid": "6413778ca362c1e0716249bd"
+      }
+    },
+    {
+      "IdEspacioOK": 2,
+      "IdEspacioBK": "LABCO-SA",
+      "DesEspacio": "Sala A",
+      "Alias": "SA",
+      "detail_row": {
+        "Activo": "S",
+        "Borrado": "N",
+        "detail_row_regw": []
+      },
+      "_id": {
+        "$oid": "6413778ca362c1e0716249be"
+      }
+    },
+    {
+      "IdEspacioOK": 3,
+      "IdEspacioBK": "LABCO-SB",
+      "DesEspacio": "Sala B",
+      "Alias": "SB",
+      "detail_row": {
+        "Activo": "S",
+        "Borrado": "N",
+        "detail_row_regw": []
+      },
+      "_id": {
+        "$oid": "6413778ca362c1e0716249bf"
+      }
+    }
+  ],
+  "__v": 0
+}]
